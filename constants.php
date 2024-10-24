@@ -72,7 +72,7 @@ $photonWavelength = LIGHT_SPEED / (5 * 10^14); // Example for calculating photon
 <script>
     function closeAndGoBack() {
         window.close(); 
-        window.location.href = "main.php";
+        window.location.href = "index.php";
     }
     
 </script>
