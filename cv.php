@@ -131,7 +131,7 @@
         window.close(); 
         
         // Redirect to the main page
-        window.location.href = "main.php";
+        window.location.href = "index.php";
     }
 </script>
 
