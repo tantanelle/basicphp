@@ -123,7 +123,7 @@ if ($firstNumber % $fifthNumber == 0) {
 <script>
     function closeAndGoBack() {
         window.close(); 
-        window.location.href = "main.php";
+        window.location.href = "index.php";
     }
 </script>
 
